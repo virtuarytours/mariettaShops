@@ -48,7 +48,7 @@
   <data name="en_pano37_title"><![CDATA[NW Corner]]></data>
 
 
-  <data name="en_pano38_title"><![CDATA[NW Corner, by Shilling's]]></data>
+  <data name="en_pano38_title"><![CDATA[Shillings]]></data>
 
 
   <data name="en_pano39_title"><![CDATA[Depot St and W Park]]></data>
@@ -109,6 +109,8 @@
   <data name="en_controlBar_classicctrlmodeDragTip"><![CDATA[Change control mode]]></data>
   <data name="en_controlBar_classicctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
   <data name="en_logowebsiteurl"><![CDATA[http://www.marietta.com]]></data>
+  <data name="en_logo1websiteurl"><![CDATA[http://virtuarytours.000webhostapp.com/About-us/]]></data>
+  <data name="en_logo1tooltipText"><![CDATA[Open website]]></data>
 
 
   <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
